@@ -9,7 +9,8 @@ Then your program should compute and display the total weight of the order.
 
 Declare Widgest and gizmos as:
 wid=75
-giz=112'''
+giz=112
+ '''
 
 a=int(input())
 b=int(input())
